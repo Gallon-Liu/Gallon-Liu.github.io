@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
-category: resources
+title: Gallery
+category: gallery
 permalink: /resources
 ---
