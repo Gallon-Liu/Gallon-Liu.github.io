@@ -10,7 +10,7 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Personal Statement', url: 'about'}
 - {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Gallery', url: 'resources'}
+- {name: 'Gallery', url: 'gallery'}
 - {name: 'Blog',       url: 'sample-posts'}
 # - {name: 'Documentation',      url: 'documentation'}
 - {name: 'Contact',            url: 'contact'}
