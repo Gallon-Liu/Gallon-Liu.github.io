@@ -4,6 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
+url: "https://gallon-liu.github.io"
 google-ID: 'UA-112060364-2'
 
 menu:
