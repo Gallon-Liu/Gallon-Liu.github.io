@@ -4,7 +4,7 @@ title: "About me"
 author: "Gallon Liu"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: profile.jpg
 ---
 
 Woof! Hello there, I'm Gallon, a charming Maltese from Korea. I may be small in size, but my playful spirit knows no bounds. As a proud boy, I bring joy and warmth to everyone I meet.
