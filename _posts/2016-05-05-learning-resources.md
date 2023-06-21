@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Learning Resources"
-author: "Paul Le"
-categories: resources
+author: "Gallon Liu"
+categories: gallery
 tags: [documentation,sample]
 image: arctic-2.jpg
 ---
