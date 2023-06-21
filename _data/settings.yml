@@ -11,7 +11,7 @@ menu:
 - {name: 'Personal Statement', url: 'about'}
 - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Gallery', url: 'gallery'}
-- {name: 'Blog',       url: 'sample-posts'}
+- {name: 'Blog',       url: 'blog'}
 # - {name: 'Documentation',      url: 'documentation'}
 - {name: 'Contact',            url: 'contact'}
 
