@@ -11,9 +11,9 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 url: "https://gallon-liu.github.io"
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "Gallon Liu"
+description:	       "i'm a handsome dog! my mom says so."
+author:              "Gallon Liu"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
