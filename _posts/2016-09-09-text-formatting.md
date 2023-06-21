@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "June 21, 2023"
+author: "Gallon Liu"
 categories: blog
 tags: [sample]
 image: arctic-1.jpg
