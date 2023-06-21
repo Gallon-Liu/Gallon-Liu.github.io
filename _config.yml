@@ -13,7 +13,7 @@ url: "https://gallon-liu.github.io"
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Gallon Liu"
 description:	       "i'm a handsome dog! my mom says so."
-# author:              "Gallon Liu"
+author:              "Austen Z. Fan"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
