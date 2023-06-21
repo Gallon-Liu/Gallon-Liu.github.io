@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
-category: sample
+title: Blog
+category: blog
 permalink: /sample-posts
 ---
