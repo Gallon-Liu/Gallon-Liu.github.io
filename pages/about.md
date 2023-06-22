@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Personal Statement
+title: About Me
 category: about
 permalink: /about
 ---
