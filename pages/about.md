@@ -1,10 +1,12 @@
 ---
-layout: page
-title: About
+layout: category
+title: Personal Statement
+category: about
 permalink: /about
 ---
 
-I am a dog.
+
+[//]: <> (I am a dog.)
 
 
 
