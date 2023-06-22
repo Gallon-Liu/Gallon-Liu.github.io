@@ -8,7 +8,7 @@ url: "https://gallon-liu.github.io"
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Personal Statement', url: 'about'}
+- {name: 'About Me', url: 'about'}
 - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Gallery', url: 'gallery'}
 - {name: 'Blog',       url: 'blog'}
