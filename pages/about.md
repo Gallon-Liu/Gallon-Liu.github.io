@@ -1,7 +1,6 @@
 ---
-layout: category
+layout: page
 title: About Me
-category: about
 permalink: /about
 ---
 
