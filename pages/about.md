@@ -4,8 +4,7 @@ title: About Me
 permalink: /about
 ---
 
-![image](../assets/img/headshot.jpg){:height="100px" width="100px"}.
-
+![image](../assets/img/headshot.jpg){ width: 200px; }
 Woof! Greetings! I'm Gallon, a delightful Maltese. Although I may be petite in size, my lively spirit knows no bounds. As a proud little fellow, I bring boundless joy and warmth to everyone I encounter.
 
 I was born on April 9, 2020, so I am still a youthful pup brimming with energy and an insatiable thirst for discovery. Each day is an exciting adventure waiting to be explored!
