@@ -4,7 +4,7 @@ title: About Me
 permalink: /about
 ---
 
-![image](assets/img/profile.jpg)
+![image](./assets/img/profile.jpg)
 
 Woof! Greetings! I'm Gallon, a delightful Maltese. Although I may be petite in size, my lively spirit knows no bounds. As a proud little fellow, I bring boundless joy and warmth to everyone I encounter.
 
