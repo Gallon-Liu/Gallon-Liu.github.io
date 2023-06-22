@@ -4,4 +4,5 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Address: 725 University Row, Madison, Wi, 53705
+I can be reached through [Instragram][https://www.instagram.com/gallon_thedog/], [e-mail](mailto:gallon.us.liu@gmail.com) or my [mom](yifei-liu-yl.github.io).
