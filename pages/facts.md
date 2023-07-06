@@ -1,7 +1,6 @@
 ---
-layout: category
+layout: page
 title: Interesting Facts
-category: facts
 permalink: /facts
 ---
 
