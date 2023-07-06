@@ -20,7 +20,7 @@ the city. My visit to the World Trade Center was an unforgettable experience, bl
 historical significance, and a dog's unique perspective on the world.
 
 <p align="center">
-<img src="../assets/img/worldtradecenter2.jpt" width="250">
+<img src="../assets/img/worldtradecenter2.jpg" width="250">
 </p>
 
 
