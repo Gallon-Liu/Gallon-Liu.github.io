@@ -4,7 +4,7 @@ title: "Visiting World Trade Center"
 author: "Gallon Liu"
 categories: blog
 tags: [sample]
-image: profile.jpg
+image: worldtradecenter1.jpg
 ---
 
 I embarked on a unique journey to explore the iconic World Trade Center in New York City.
@@ -20,8 +20,9 @@ the city. My visit to the World Trade Center was an unforgettable experience, bl
 historical significance, and a dog's unique perspective on the world.
 
 <p align="center">
-<img src="../assets/img/guandan.jpg" width="250">
+<img src="../assets/img/worldtradecenter2.jpt" width="250">
 </p>
+
 
 
 
