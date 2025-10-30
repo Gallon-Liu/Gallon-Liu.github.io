@@ -11,9 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 url: "https://gallon-liu.github.io"
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Gallon Liu"
+title:		           "Gallon"
 description:	       "i'm handsome! my mom says so."
-author:              "Austen Z. Fan"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
