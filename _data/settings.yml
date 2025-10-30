@@ -10,16 +10,16 @@ url: "https://gallon-liu.github.io"
 menu:
 - {name: 'About Me', url: 'about'}
 - {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Gallery', url: 'gallery'}
+# - {name: 'Gallery', url: 'gallery'}
 - {name: 'Blog',       url: 'blog'}
 # - {name: 'Documentation',      url: 'documentation'}
-- {name: 'Contact',            url: 'contact'}
+# - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 # - {icon: 'twitter', link:    'https://twitter.com/paululele'}
 # - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
-- {icon: 'instagram', link:  'https://www.instagram.com/gallon_thedog/'}
+# - {icon: 'instagram', link:  'https://www.instagram.com/gallon_thedog/'}
 - {icon: 'envelope', link:   'mailto:gallon.us.liu@gmail.com'}
 - {icon: 'github', link: 'https://github.com/Gallon-Liu'}
 # - {icon: 'rss-square', link: 'feed.xml'}
